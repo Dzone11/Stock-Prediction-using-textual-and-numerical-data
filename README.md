@@ -6,3 +6,7 @@ created a hybrid model for stock price and performance prediction using numerica
 The drawback of the textual data is that we are only able to analyze and understand the data until 2022-03-31.
 
 Be careful while you open the news.csv file. If we change anything and save the file, the whole data will not load, which means we will not have access to news headlines until 2022.
+
+I have chosen to implement ARIMA, SARIMAX and other machine learning algorithms, including Randomforest, XGBoost etc.
+
+If there are any errors please do notify me.
